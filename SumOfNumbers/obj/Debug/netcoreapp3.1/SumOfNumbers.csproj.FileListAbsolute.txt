@@ -1,0 +1,14 @@
+C:\Junior\Курс С# - проекты по С# 2 часть\SumOfNumbers\SumOfNumbers\bin\Debug\netcoreapp3.1\SumOfNumbers.exe
+C:\Junior\Курс С# - проекты по С# 2 часть\SumOfNumbers\SumOfNumbers\bin\Debug\netcoreapp3.1\SumOfNumbers.deps.json
+C:\Junior\Курс С# - проекты по С# 2 часть\SumOfNumbers\SumOfNumbers\bin\Debug\netcoreapp3.1\SumOfNumbers.runtimeconfig.json
+C:\Junior\Курс С# - проекты по С# 2 часть\SumOfNumbers\SumOfNumbers\bin\Debug\netcoreapp3.1\SumOfNumbers.runtimeconfig.dev.json
+C:\Junior\Курс С# - проекты по С# 2 часть\SumOfNumbers\SumOfNumbers\bin\Debug\netcoreapp3.1\SumOfNumbers.dll
+C:\Junior\Курс С# - проекты по С# 2 часть\SumOfNumbers\SumOfNumbers\bin\Debug\netcoreapp3.1\SumOfNumbers.pdb
+C:\Junior\Курс С# - проекты по С# 2 часть\SumOfNumbers\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.csproj.AssemblyReference.cache
+C:\Junior\Курс С# - проекты по С# 2 часть\SumOfNumbers\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Junior\Курс С# - проекты по С# 2 часть\SumOfNumbers\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.AssemblyInfoInputs.cache
+C:\Junior\Курс С# - проекты по С# 2 часть\SumOfNumbers\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.AssemblyInfo.cs
+C:\Junior\Курс С# - проекты по С# 2 часть\SumOfNumbers\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.csproj.CoreCompileInputs.cache
+C:\Junior\Курс С# - проекты по С# 2 часть\SumOfNumbers\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.dll
+C:\Junior\Курс С# - проекты по С# 2 часть\SumOfNumbers\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.pdb
+C:\Junior\Курс С# - проекты по С# 2 часть\SumOfNumbers\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.genruntimeconfig.cache
