@@ -17,7 +17,7 @@ namespace SumOfNumbers
 
             for (int i = 0; i <= number; i++)
             {
-                if ((i / five == 0) || (i / three == 0))
+                if ((i % five == 0) || (i % three == 0))
                 {
                     sum += i;
                 }
